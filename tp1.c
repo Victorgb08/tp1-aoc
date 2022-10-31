@@ -29,8 +29,8 @@ int count(int n)
  
 int main()
 {
-    int a;
-    scanf("%i", &a);
-    printf ("%d\n", count(a));
+    int n;
+    scanf("%i", &n);
+    printf ("%d\n", count(n));
     return 0;
 }
