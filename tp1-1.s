@@ -1,4 +1,4 @@
-	.file	1 "tp1.c"
+	.file	1 "tp1-1.c"
 	.section .mdebug.abi32
 	.previous
 	.nan	legacy
